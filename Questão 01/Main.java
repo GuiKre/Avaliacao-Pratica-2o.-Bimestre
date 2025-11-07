@@ -1,0 +1,5 @@
+//Strategy
+
+public class Main {
+
+}
